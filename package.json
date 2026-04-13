@@ -1,7 +1,7 @@
 {
   "name": "solace",
   "version": "1.0.0",
-  "description": "A MERN-stack developer's custom VCS with AI and Security",
+  "description": "A MERN-stack developer's custom VCS with security",
   "main": "solace.mjs",
   "type": "module",
   "bin": {
