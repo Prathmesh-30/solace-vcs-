@@ -1,0 +1,6 @@
+# Solace ignore file
+node_modules/
+.env
+*.log
+dist/
+.DS_Store

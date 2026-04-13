@@ -1,0 +1,22 @@
+{
+  "name": "solace",
+  "version": "1.0.0",
+  "description": "A MERN-stack developer's custom VCS with AI and Security",
+  "main": "solace.mjs",
+  "type": "module",
+  "bin": {
+    "solace": "./solace.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prathmesh Shirude",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "diff": "^7.0.0",
+    "dotenv": "^16.4.7"
+  }
+}
