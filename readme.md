@@ -1,12 +1,8 @@
 # Solace VCS 
 
 > A Git-inspired version control system built from scratch in Node.js
-
-![Node.js](https://res.cloudinary.com/dwioxbbrl/image/upload/q_auto/f_auto/v1776064856/Screenshot_2026-04-13_124551_vrdhtg.png)
-![Version](https://res.cloudinary.com/dwioxbbrl/image/upload/q_auto/f_auto/v1776064856/Screenshot_2026-04-13_124852_pse7dp.png)
-![image ](https://res.cloudinary.com/dwioxbbrl/image/upload/q_auto/f_auto/v1776064875/Screenshot_2026-04-13_125032_osn9ap.png)
-
----
+>
+> ---
 
 ## What is Solace?
 
@@ -17,6 +13,14 @@ It's not a Git wrapper. Every operation is written from scratch: hashing, file s
 It also ships a **Secret Guardian** — a pre-stage scanner that blocks files containing exposed credentials (AWS keys, Google API keys, hardcoded secrets) before they can ever be committed.
 
 ---
+
+![image ](https://res.cloudinary.com/dwioxbbrl/image/upload/q_auto/f_auto/v1776064856/Screenshot_2026-04-13_124551_vrdhtg.png)
+![image ](https://res.cloudinary.com/dwioxbbrl/image/upload/q_auto/f_auto/v1776064856/Screenshot_2026-04-13_124852_pse7dp.png)
+![image ](https://res.cloudinary.com/dwioxbbrl/image/upload/q_auto/f_auto/v1776064875/Screenshot_2026-04-13_125032_osn9ap.png)
+
+---
+
+
 
 ## Features
 
